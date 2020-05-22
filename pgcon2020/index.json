@@ -7,43 +7,43 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "001.md"
       },
       {
         "title": "Step 2",
-        "text": "step2.md"
+        "text": "002.md"
       },
       {
         "title": "Step 3",
-        "text": "step3.md"
+        "text": "003.md"
       },
       {
         "title": "Step 4",
-        "text": "step4.md"
+        "text": "004.md"
       },
       {
         "title": "Step 5",
-        "text": "step5.md"
+        "text": "005.md"
       },
       {
         "title": "Step 6",
-        "text": "step6.md"
+        "text": "006.md"
       },
       {
         "title": "Step 7",
-        "text": "step7.md"
+        "text": "007.md"
       },
       {
         "title": "Step 8",
-        "text": "step8.md"
+        "text": "008.md"
       },
       {
         "title": "Step 9",
-        "text": "step9.md"
+        "text": "009.md"
       },
       {
         "title": "Step 10",
-        "text": "step10.md"
+        "text": "010.md"
       }
     ],
     "intro": {
