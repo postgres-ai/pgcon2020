@@ -47,7 +47,7 @@
       }
     ],
     "intro": {
-      "code": "1_install-packages.sh",
+      "code": "launch.sh",
       "text": "intro.md"
     },
     "finish": {
