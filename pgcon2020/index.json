@@ -1,6 +1,6 @@
 {
-  "title": "pgcon2020",
-  "description": "Seamless SQL optimization",
+  "title": "Seamless SQL Optimization – PGCon2020 Tutorial",
+  "description": "Seamless SQL optimization. May 26, 2020. PGCon-2020 https://pgcon.org. Author: Nikolay Samokhvalov, https://Postgres.ai (nik@postgres.ai, twitter @postgresmen)",
   "difficulty": "Intermediate",
   "time": "60 minutes",
   "details": {
