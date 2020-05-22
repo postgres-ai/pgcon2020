@@ -5,5 +5,5 @@ Wait until container is pulled and launched. Normally, it takes not more than 1 
 Then, check that you have PostgreSQL and can connect using `psql`. Database name is `demo1`, username and password are not required:
 
 ```
-psql demo1 -c 'select now()'
+psql demo1 -c 'select'
 ```
