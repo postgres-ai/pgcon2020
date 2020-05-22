@@ -47,7 +47,7 @@
       }
     ],
     "intro": {
-      "courseData": "1_install-packages.sh",
+      "code": "1_install-packages.sh",
       "text": "intro.md"
     },
     "finish": {
