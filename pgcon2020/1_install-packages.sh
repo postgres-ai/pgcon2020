@@ -10,7 +10,7 @@ sudo apt-get update
 
 apt-get install postgresql-12 postgresql-12-contrib
 
-/usr/pgsql-12/bin/postgresql-12-setup initdb
+# /usr/pgsql-12/bin/postgresql-12-setup initdb
 
 echo "Pull docker images"
 # docker pull TAG
