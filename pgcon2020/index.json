@@ -57,6 +57,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "pgcon2020-pgcon2020"
+    "imageid": "ubuntu"
   }
 }
