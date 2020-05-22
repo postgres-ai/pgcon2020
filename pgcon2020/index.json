@@ -57,6 +57,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "pxxxxxxx"
+    "imageid": "postgres-ai-pgcon2020"
   }
 }
