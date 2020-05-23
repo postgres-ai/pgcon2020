@@ -47,7 +47,7 @@
       }
     ],
     "intro": {
-      "code": "launch.sh",
+      "courseData": "launch.sh",
       "text": "intro.md"
     },
     "finish": {
