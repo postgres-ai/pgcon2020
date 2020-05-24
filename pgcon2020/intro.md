@@ -9,6 +9,4 @@ Wait until Docker image is pulled and the container is launched. Normally, it ta
 
 Once it's ready you will get the message that it's ready. By that time, you'll be already inside the container.
 
-If you need an additional terminal, you can open it in another tab. But keep in mind that there you'll be not inside container in the beginning, so use `sudo docker exec -it demo1 bash` it get inside it.
-
 If something goes wrong, feel free to reload the page and start over again. All the steps are independent so you can skip any of them.
